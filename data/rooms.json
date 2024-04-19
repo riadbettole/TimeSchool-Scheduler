@@ -1,0 +1,26 @@
+{
+    "CC01" : {
+        "nbr_place" : 60,
+        "has_computer" : true
+    },
+    "CC02" : {
+        "nbr_place" : 60,
+        "has_computer" : true
+    },
+    "CC03" : {
+        "nbr_place" : 60,
+        "has_computer" : true
+    },
+    "SC01" : {
+        "nbr_place" : 60,
+        "has_computer" : false
+    },
+    "SC02" : {
+        "nbr_place" : 60,
+        "has_computer" : false
+    },
+    "SC03" : {
+        "nbr_place" : 60,
+        "has_computer" : false
+    }
+}

@@ -1,0 +1,79 @@
+{
+  "MAHDAD HIND": {
+    "availability": {
+      "mon": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"],
+      "thu": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"]
+    },
+    "list_of_professions": ["math"]
+  },
+  "FENTIS AYOUB": {
+    "availability": {
+      "mon": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"],
+      "thu": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"]
+    },
+    "list_of_professions": ["c++"]
+  },
+  "LAQTIB SAFAA": {
+    "availability": {
+      "mon": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"],
+      "thu": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"]
+    },
+    "list_of_professions": ["python"]
+  },
+  "MOUCHFIQ NADA": {
+    "availability": {
+      "mon": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"],
+      "thu": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"]
+    },
+    "list_of_professions": ["conception"]
+  },
+  "BENTACHFINE ILYAS": {
+    "availability": {
+      "tue": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"],
+      "fri": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"]
+    },
+    "list_of_professions": ["bigdata"]
+  },
+  "TABBAKH ZINEB": {
+    "availability": {
+      "tue": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"],
+      "fri": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"]
+    },
+    "list_of_professions": ["management"]
+  },
+  "MONSIF DOUNIA": {
+    "availability": {
+      "tue": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"],
+      "fri": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"]
+    },
+    "list_of_professions": ["j2ee"]
+  },
+  "BENSAG HASSNA": {
+    "availability": {
+      "tue": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"],
+      "fri": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"]
+    },
+    "list_of_professions": ["dataware"]
+  },
+  "EL AZHARI KHADIJA": {
+    "availability": {
+      "wed": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"],
+      "sat": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"]
+    },
+    "list_of_professions": ["communication"]
+  },
+  "NAIT SLIMANE SARA": {
+    "availability": {
+      "wed": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"],
+      "sat": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"]
+    },
+    "list_of_professions": ["anglais"]
+  },
+  "ETTOUR  KAWTAR": {
+    "availability": {
+      "wed": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"],
+      "sat": ["8h-10h", "10h-12h", "14h-16h", "16h-18h"]
+    },
+    "list_of_professions": ["entreprenariat"]
+  }
+}
