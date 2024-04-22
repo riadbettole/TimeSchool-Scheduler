@@ -29,14 +29,14 @@ class GeneticAlgorithm:
         for i in range(6): #days
             for j in range(4):
                 slot_of_time_table = self.TimeTable.timeTable[i][j]
-                available_professor : Professor= self.chooseRandomProfessor(available_professors_per_day[str(slot_of_time_table.day)])  
-                available_room : Room= self.chooseRandomRoom(available_room_per_day_and_hour, available_professor)
+                available_professor : Professor = self.chooseRandomProfessor(available_professors_per_day[str(slot_of_time_table.day)])  
+                available_room : Room = self.chooseRandomRoom(available_room_per_day_and_hour, available_professor)
                 print(available_room)
                 
                 self.TimeTable.timeTable[i][j].setProfessor(available_professor)
                 self.TimeTable.timeTable[i][j].setRoom(available_room)
                 #can't really force the room to be with computers, its gonna be a soft contraint
-                hour_slot.setSubject(self.list_of_subjects[RANDOM])
+                # hour_slot.setSubject(self.list_of_subjects[RANDOM])
             # 
             # print(available_professor)
             # pass
